@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 -->
 
-__A step outside your comfort zone is a step into your miracle zone .__
+<i>__A step outside your comfort zone is a step into your miracle zone .__</i>
 
 - 🔭 I’m open to work from December 2023. 
 - 🌱 I’m currently learning React Javascript and Python                                                                                                      
