@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 -->
 
+* A step outside your comfort zone is a step into your miracle zone .*
+
 - 🔭 I’m open to work from December 2023. 
 - 🌱 I’m currently learning React Javascript and Python                                                                                                      
 - 💬 Ask me about Coding SAP ABAP and Java
