@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 -->
 
-+🔭 I’m open to work from December 2023.                                                                                                                                  +🌱 I’m currently learning React Javascript and working on Python
-+💬 Ask me about Coding SAP ABAP and Java
-+😄 Pronouns: She/Her
+- 🔭 I’m open to work from December 2023.                                                                                                                                  - 🌱 I’m currently learning React Javascript and working on Python
+- 💬 Ask me about Coding SAP ABAP and Java
+- 😄 Pronouns: She/Her
 
