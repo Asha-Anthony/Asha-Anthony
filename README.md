@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m open to work from December 2023.                                                                                                                                  - 🌱 I’m currently learning React Javascript and working on Python
+- 🔭 I’m open to work from December 2023. 
+- 🌱 I’m currently learning React Javascript and Python                                                                                                      
 - 💬 Ask me about Coding SAP ABAP and Java
 - 😄 Pronouns: She/Her
 
+Languages and Tools that I have worked on:
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
