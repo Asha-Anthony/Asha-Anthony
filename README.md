@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m open to work from December 2023. 
 - 🌱 I’m currently learning React Javascript and Python                                                                                                      
-- 💬 Ask me about Coding SAP ABAP and Java
+- 💬 Ask me about Coding ,SAP ABAP and Java
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I've not watched FRIENDS! ( I know :woman_shrugging:)
+- ⚡ Fun fact: I've not watched the TV show FRIENDS! ( I know :woman_shrugging:)
 
 
 Languages and Tools that I have worked on:<br>
